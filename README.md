@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pantoush
 - 👀 I’m interested in ...World domination
 - 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on ...Wolrd domination issues
+- 💞️ I’m looking to collaborate on ...World domination issues
 - 📫 How to reach me ...Twitter @Pantoush
 
 <!---
